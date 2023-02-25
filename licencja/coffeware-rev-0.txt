@@ -1,0 +1,14 @@
+* 			        	"COFFEGWARE" 
+*					(Revision 0)
+* You can share-for-$/modify-and-sell/other as long as you retain the notice that rootUser is the autor of this 
+* program (if you haven't bought me any coffee).
+*
+* If you bought me a coffe, then you can do WHATEVER you want with this program (Because if you bought, then 
+* you don't need to include creator data).
+*
+* You can share this code and modify it if only you don't get any financial profits from it.
+*
+* If we meet some day, and you 
+* think this code is good enough, then you can buy me a coffe, but you don't have to.
+* Thank you for reading this :)
+*---------------------------------------------------------------------------------------------------------------

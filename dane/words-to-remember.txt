@@ -1,0 +1,4 @@
+mathematics, matma
+physics, fizyka
+chemistry, chemia
+biology, biologia

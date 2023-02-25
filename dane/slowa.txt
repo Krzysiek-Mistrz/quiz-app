@@ -1,0 +1,8 @@
+geography, geografia
+mathematics, matma
+physics, fizyka
+it, informatyka
+chemistry, chemia
+biology, biologia
+zolty, yellow
+blue, niebieski
